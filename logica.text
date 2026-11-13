@@ -1,0 +1,6 @@
+Projeto_TDAH/
+├── server.js
+├── db.js
+├── .env              ← renomeie "local.env" pra ".env"
+└── public/           ← crie essa pasta
+    └── index.html    ← renomeie "foco.html" pra "index.html" e mova pra cá
